@@ -19,3 +19,26 @@ Currently, two official plugins are available:
 
    ```bash
    git clone https://github.com/tu-usuario/mf-store.git
+
+2. Instala las dependencias con npm:
+
+   ```bash
+   npm install
+
+O con yarn
+   ```bash
+   yarn install
+
+## Scripts
+Dev: Inicia el servidor de desarrollo Vite.
+   ```bash
+   npm run dev
+   ```bash
+   yarn dev
+
+Build: Compila la aplicación para producción.
+   ```bash
+   npm run build
+   ```bash
+   yarn build
+   
